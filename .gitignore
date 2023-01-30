@@ -1,0 +1,6 @@
+/.venv
+/.vscode
+/bindings.json
+/build
+/dist
+/tartarus_hud.spec
